@@ -5,6 +5,7 @@
 }
 
 .title {
+  margin-left: 2px;
   flex-grow: 1;
   font-family: sans-serif;
   letter-spacing: -1px;
@@ -23,7 +24,7 @@
 }
 
 nav.menu {
-  box-shadow:inset 0px 0px 0px 2px black;
+  box-shadow: inset 0px 0px 0px 2px black;
   position: absolute;
   right: 0;
   min-height: 3rem;
@@ -52,7 +53,7 @@ ul.menu {
 .menu button {
   border: none;
   background-color: inherit;
-  min-width: 3rem;;
+  min-width: 3rem;
   min-height: 3rem;
   border-radius: 1.5rem;
   cursor: pointer;

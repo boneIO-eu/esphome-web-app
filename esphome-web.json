@@ -1,0 +1,7 @@
+{
+  "title": "ESPWA",
+  "css": {
+    "--primary-background": "#f7fafc99",
+    "--primary-color": "rgb(43, 115, 182)"
+  }
+}
